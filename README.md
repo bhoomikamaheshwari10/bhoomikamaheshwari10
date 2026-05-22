@@ -1,4 +1,4 @@
-<h1 align="center">Bhumika Maheshwari</h1>
+<h1 align="center">Bhoomika Maheshwari</h1>
 
 <h3 align="center">
 Data Science & ML Engineering • B.Tech Computer Science • India
