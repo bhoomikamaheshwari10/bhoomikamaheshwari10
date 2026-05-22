@@ -6,6 +6,20 @@ Data Science & ML Engineering • B.Tech Computer Science • India
 
 <p align="center">
   <a href="https://linkedin.com/in/https://www.linkedin.com/in/bhoomika-maheshwari10/">LinkedIn</a> •
-  <a href="https://github.com/https://github.com/bhoomikamaheshwari10">Portfolio</a> •
   <a href="mailto:bhoomikamaheshwari455@gmail.com">Email</a>
 </p>
+<h2>Stack</h2>
+
+```text
+ML / AI        TensorFlow • Scikit-learn • Pandas • NumPy • Matplotlib
+Backend        Django • FastAPI • MYSQL
+Languages      Python • C • C++ • SQL • HTML • CSS
+Tools          Excel • Tableau • Jupyter Notebook • Google Colab • VS Code
+```
+
+
+## Currently
+
+- Building ML systems and AI-based applications
+- Practicing Competitive Programming and DSA
+- Learning advanced Machine Learning concepts
